@@ -1,4 +1,4 @@
-#  TikTok话题详情
+#  TikTok话题详情Api
 
 # 联系方式：[点击主页查看](https://github.com/VideoData) 
 
