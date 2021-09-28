@@ -1,0 +1,145 @@
+{
+    "data": {
+        "itemInfo": {
+            "itemStruct": {
+                "author": {
+                    "avatarLarger": "https://p16-va-tiktok.ibyteimg.com/img/musically-maliva-obj/1647754017437702~c5_1080x1080.jpeg",
+                    "avatarMedium": "https://p16-va-tiktok.ibyteimg.com/img/musically-maliva-obj/1647754017437702~c5_720x720.jpeg",
+                    "avatarThumb": "https://p16-va-tiktok.ibyteimg.com/img/musically-maliva-obj/1647754017437702~c5_100x100.jpeg",
+                    "id": "6747935906352907269",
+                    "nickname": "Gordon Ramsay",
+                    "openFavorite": false,
+                    "relation": 0,
+                    "secUid": "MS4wLjABAAAAv3zolJLlWp-WbKXqSZwVSflDdwcbjPADRG-dhb68k30dQjkFpkRs4HiMvWeeIyVv",
+                    "secret": false,
+                    "signature": "I cook sometimes too..... \nText me ☎️ +1 (310) 620-6468",
+                    "uniqueId": "gordonramsayofficial",
+                    "verified": true
+                },
+                "challenges": [
+                    {
+                        "coverLarger": "",
+                        "coverMedium": "",
+                        "coverThumb": "",
+                        "desc": "",
+                        "id": "30203",
+                        "isCommerce": false,
+                        "profileLarger": "",
+                        "profileMedium": "",
+                        "profileThumb": "",
+                        "title": "shutitdown"
+                    },
+                    {
+                        "coverLarger": "",
+                        "coverMedium": "",
+                        "coverThumb": "",
+                        "desc": "",
+                        "id": "229207",
+                        "isCommerce": false,
+                        "profileLarger": "",
+                        "profileMedium": "",
+                        "profileThumb": "",
+                        "title": "fyp"
+                    },
+                    {
+                        "coverLarger": "",
+                        "coverMedium": "",
+                        "coverThumb": "",
+                        "desc": "",
+                        "id": "42164",
+                        "isCommerce": false,
+                        "profileLarger": "",
+                        "profileMedium": "",
+                        "profileThumb": "",
+                        "title": "foryou"
+                    }
+                ],
+                "createTime": 1590774479,
+                "desc": "Should I start the #ShutitDown Challenge ??? #fyp #foryou",
+                "digged": false,
+                "duetInfo": {
+                    "duetFromId": "0"
+                },
+                "forFriend": false,
+                "id": "6832324357851778309",
+                "isActivityItem": false,
+                "itemCommentStatus": 0,
+                "music": {
+                    "authorName": "gordonramsayofficial",
+                    "coverLarge": "https://p16-va-tiktok.ibyteimg.com/img/musically-maliva-obj/1647754017437702~c5_1080x1080.jpeg",
+                    "coverMedium": "https://p16-va-tiktok.ibyteimg.com/img/musically-maliva-obj/1647754017437702~c5_720x720.jpeg",
+                    "coverThumb": "https://p16-va-tiktok.ibyteimg.com/img/musically-maliva-obj/1647754017437702~c5_100x100.jpeg",
+                    "id": "6832324353628130053",
+                    "original": true,
+                    "playUrl": "https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/6fcf7a67b71ca365ccf146f1685e5313.mp3",
+                    "title": "Shut It Down"
+                },
+                "secret": false,
+                "showNotPass": false,
+                "stats": {
+                    "commentCount": 1463,
+                    "diggCount": 231700,
+                    "playCount": 1200000,
+                    "shareCount": 739
+                },
+                "textExtra": [
+                    {
+                        "awemeId": "",
+                        "end": 30,
+                        "hashtagId": "",
+                        "hashtagName": "shutitdown",
+                        "isCommerce": false,
+                        "start": 19,
+                        "type": 1,
+                        "userId": ""
+                    },
+                    {
+                        "awemeId": "",
+                        "end": 49,
+                        "hashtagId": "",
+                        "hashtagName": "fyp",
+                        "isCommerce": false,
+                        "start": 45,
+                        "type": 1,
+                        "userId": ""
+                    },
+                    {
+                        "awemeId": "",
+                        "end": 57,
+                        "hashtagId": "",
+                        "hashtagName": "foryou",
+                        "isCommerce": false,
+                        "start": 50,
+                        "type": 1,
+                        "userId": ""
+                    }
+                ],
+                "video": {
+                    "cover": "https://p16-tiktok-va.ibyteimg.com/obj/tos-maliva-p-0068/385bfca41f4a431a9897b05f31953d8f?x-expires=1592229600&x-signature=0tXIXN9D70%2FDYjj8%2F1nX8Lfam%2B8%3D",
+                    "downloadAddr": "https://v19.muscdn.com/15a1994251de398a9d05565401f13235/5ee53705/video/tos/useast2a/tos-useast2a-ve-0068c003/19f90ad394b043a2a779cab48e423f10/?a=1233&br=4950&bt=2475&cr=0&cs=0&dr=0&ds=3&er=&l=20200613142847010189066047073D6772&lr=tiktok_m&mime_type=video_mp4&qs=0&rc=anlkM3JvbmxudTMzZjczM0ApNGU0Zmc3NWQ0N2dnaTZoNmcvMzNgcnNjaTVfLS00MTZzcy0wYzUxYWAzXmIzNDBgYzA6Yw%3D%3D&vl=&vr=",
+                    "duration": 6,
+                    "dynamicCover": "https://p16-tiktok-va.ibyteimg.com/obj/tos-maliva-p-0068/2a5d2919bd97468e90cc5c2a4996334f_1590774481?x-expires=1592229600&x-signature=VL4%2BJvmsU85xQ1CY4ryt%2FKo6L6k%3D",
+                    "height": 1024,
+                    "id": "v090447c0000br8klifkvluoc06a6v2g",
+                    "originCover": "https://p16-tiktok-va.ibyteimg.com/obj/tos-maliva-p-0068/8420e0a222404423b187f45f2de0ed62_1590774481?x-expires=1592229600&x-signature=4yxRUhrBTv3FKr6okrAja5wQAr4%3D",
+                    "playAddr": "https://v19.muscdn.com/15a1994251de398a9d05565401f13235/5ee53705/video/tos/useast2a/tos-useast2a-ve-0068c003/19f90ad394b043a2a779cab48e423f10/?a=1233&br=4950&bt=2475&cr=0&cs=0&dr=0&ds=3&er=&l=20200613142847010189066047073D6772&lr=tiktok_m&mime_type=video_mp4&qs=0&rc=anlkM3JvbmxudTMzZjczM0ApNGU0Zmc3NWQ0N2dnaTZoNmcvMzNgcnNjaTVfLS00MTZzcy0wYzUxYWAzXmIzNDBgYzA6Yw%3D%3D&vl=&vr=",
+                    "ratio": "720p",
+                    "shareCover": [
+                        "",
+                        "https://p16-tiktok-va.ibyteimg.com/tos-maliva-p-0068/8420e0a222404423b187f45f2de0ed62_1590774481~tplv-tiktok-play.jpeg?x-expires=1592229600&x-signature=muqEnR73MxePU4T4d8J%2FSOXzW1M%3D",
+                        "https://p16-tiktok-va.ibyteimg.com/tos-maliva-p-0068/8420e0a222404423b187f45f2de0ed62_1590774481~tplv-tiktok-play2.jpeg?x-expires=1592229600&x-signature=9U0aAgGYui%2FFH%2F3Iq3smOOgViSI%3D"
+                    ],
+                    "width": 576
+                },
+                "vl1": false
+            },
+            "shareMeta": {
+                "desc": "Should I start the #ShutitDown Challenge ??? #fyp #foryou",
+                "title": "Gordon Ramsay on TikTok"
+            }
+        },
+        "statusCode": 0
+    },
+    "code": 200,
+    "msg": "成功"
+}
