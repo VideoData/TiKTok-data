@@ -3,7 +3,7 @@
 
 TikTok搜索、TikTokApi、TikTok直播Api、TikTok评论采集、TikTok弹幕、TikTok采集、TikTok爬虫、TikTok去水印 源码
 
-#  免责声明    
+#  免责声明   
 ```        
 有任何问题可交流学习      
 请勿使用本服务于商用       
