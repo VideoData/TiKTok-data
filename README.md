@@ -11,7 +11,7 @@ TikTok搜索、TikTokApi、TikTok直播Api、TikTok评论采集、TikTok弹幕�
 若因使用本服务与平台造成不必要的纠纷，本人盖不负责    
 本人纯粹技术爱好，若侵犯贵公司的权益，请告知  
 ``` 
-
+ 
 ## 疑问 
 <details> 
   <summary>还有其他短视频平台可以交流吗？</summary>
